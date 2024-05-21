@@ -21,6 +21,10 @@ const styles = StyleSheet.create({
     backgroundColor: '#57CE93',
     paddingVertical: 10,
     paddingHorizontal: 20,
+    paddingTop: 20,
+    paddingBottom: 20,
+    borderBottomLeftRadius: 5,  // Define o raio da borda inferior esquerda
+    borderBottomRightRadius: 5,
   },
   texto: {
     color: 'white',
